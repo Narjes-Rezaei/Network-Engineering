@@ -37,6 +37,7 @@ Ensure you have Python 3, Prometheus, and Grafana installed on your system.
 ```bash
 git clone [https://github.com/Narjes-Rezaei/Network-Engineering.git](https://github.com/Narjes-Rezaei/Network-Engineering.git)
 cd NetPulse
+```
 
 ### 2. Set Up Virtual Environment
 
