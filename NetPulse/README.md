@@ -36,7 +36,7 @@ Ensure you have Python 3, Prometheus, and Grafana installed on your system.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/NetPulse.git](https://github.com/YOUR_USERNAME/NetPulse.git)
+git clone [https://github.com/Narjes-Rezaei/Network-Engineering.git](https://github.com/Narjes-Rezaei/Network-Engineering.git)
 cd NetPulse
 ```
 
