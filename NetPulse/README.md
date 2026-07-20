@@ -1,4 +1,3 @@
-```markdown
 # NetPulse - Smart Network & Server Resource Monitoring
 
 **NetPulse** is a lightweight, high-performance network and server monitoring solution designed to collect real-time system metrics, store them in a time-series database, and visualize them through an interactive graphical dashboard.
@@ -38,7 +37,6 @@ Ensure you have Python 3, Prometheus, and Grafana installed on your system.
 ```bash
 git clone [https://github.com/Narjes-Rezaei/Network-Engineering.git](https://github.com/Narjes-Rezaei/Network-Engineering.git)
 cd NetPulse
-```
 
 ### 2. Set Up Virtual Environment
 
